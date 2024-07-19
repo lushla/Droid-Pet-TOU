@@ -45,11 +45,11 @@ In cases where a user or server is found to be in violation of the rules mention
 
 All Growtopia sprites and assets are the property of Ubisoft and Growtopia Entertainment. Droid-Pet is not affiliated with or owned by Ubisoft in any way.
   
- 12. Database and Command Specifics
+ 11. Database and Command Specifics
      
 The bot's databases store data related to used commands by users. Staff members are only granted access to specific databases to contribute information or useful emojis. They cannot access user information. Commands that add content to the bot's database each have their own dedicated staff members and databases. To view the bot's staff and their permissions, you can use the /botinfo command.
 
- 14. User Requests and Blacklisted Users
+ 12. User Requests and Blacklisted Users
 
 Users can request their database information stored by the bot, via our Discord server (Contacting Us). If a user is blacklisted, their data is largely deleted, with only their DISCORD USER ID retained to prevent further bot usage.
 
